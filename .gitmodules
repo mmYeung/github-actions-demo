@@ -1,0 +1,3 @@
+[submodule "rpg-name-generator"]
+	path = rpg-name-generator
+	url = https://github.com/dvdksn/rpg-name-generator.git
